@@ -1,6 +1,6 @@
 # 🏏 IPL Data Analysis using SQL
 
-![](https://github.com/yourusername/ipl_sql_project/blob/main/logo.png)
+![](https://github.com/Atharv-Gudekar/IPL-Matches-Analysis-Using-SQL/blob/main/ipllogo.png)
 
 ## Overview
 This project involves a comprehensive analysis of **Indian Premier League (IPL) matches and deliveries data** using SQL. The goal is to extract valuable insights and answer various cricket-related analytical questions based on the dataset.  

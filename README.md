@@ -78,7 +78,7 @@ Got it! I will give **all 20 queries in one single block** formatted for a READM
 ---
 
 ````
-# IPL SQL Analysis
+# IPL Data - SQL Analysis
 
 ## 1. Show the First 20 Matches
 ```sql
